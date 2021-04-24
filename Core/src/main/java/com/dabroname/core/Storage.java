@@ -14,6 +14,7 @@ import java.util.Map;
 
 public interface Storage {
 
+    // обязывает реализовать свойство name в DefaultStorage
     String getName();
 
     // получение баланса (остаток)
