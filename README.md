@@ -1,3 +1,2 @@
 # MyFinance
-# Thesis project
-# Дипломный проект
+# Thesis project (Дипломный проект)
